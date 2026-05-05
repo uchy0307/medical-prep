@@ -1,0 +1,31 @@
+{
+  "name": "医療相談前の症状言語化",
+  "short_name": "医療相談前の症状",
+  "description": "医師に正しく伝えるメモ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0ede8",
+  "theme_color": "#8a6030",
+  "orientation": "portrait",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
